@@ -1,0 +1,420 @@
+lmutil - Copyright (c) 1989-2014 Flexera Software LLC. All Rights Reserved.
+Flexible License Manager status on Mon 9/24/2018 05:52
+
+[Detecting lmgrd processes...]
+License server status: 27000@license-server-17
+    License file(s) on license-server-17: C:\Program Files (x86)\Ixia\LicenseServerPlus\licenses\abc.lic:C:\Program Files (x86)\Ixia\LicenseServerPlus\licenses\this.lic:
+
+license-server-17: license server UP (MASTER) v11.13.0
+
+Vendor daemon status (on license-server-17):
+
+    ixialm: UP v11.13.0
+Feature usage info:
+
+Users of ixchariot_fs:  (Total of 186 licenses issued;  Total of 76 licenses in use)
+
+  "ixchariot_fs" v2015.0325, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev AUTO-08 AUTO-08 (v2010.1008) (license-server-17/31495 24701), start Mon 9/17 7:27
+    autodev QOffice QOffice (v2010.1008) (license-server-17/31495 36701), start Mon 9/17 7:29
+    autodev ELECTROBIT ELECTROBIT (v2010.1008) (license-server-17/31495 30201), start Mon 9/17 7:28
+    autodev ru-sw-butler2 ru-sw-butler2 (v2010.1008) (license-server-17/31495 37852), start Thu 9/20 13:18
+    autodev SJ_SW_AZLITE_01 SJ_SW_AZLITE_01 (v2010.1008) (license-server-17/31495 34201), start Mon 9/17 7:28
+    quantenna sigma-dut-ca WFA-ACC (v2010.1008) (license-server-17/31495 34701), start Mon 9/17 7:28
+    autodev AUTO-46 AUTO-46 (v2010.1008) (license-server-17/31495 37701), start Mon 9/17 7:29
+    wxie sh-sw-wxie02 sh-sw-wxie02 (v2010.1008) (license-server-17/31495 42742), start Wed 9/19 22:22
+    autodev Azlite1 Azlite1 (v2010.1008) (license-server-17/31495 26045), start Wed 9/19 12:45
+    autodev QVideoStress QVideoStress (v2010.1008) (license-server-17/31495 28603), start Fri 9/21 9:45
+    autodev electrobit2 electrobit2 (v2010.1008) (license-server-17/31495 28068), start Fri 9/21 15:10
+    autodev ru-qa-azlite4 ru-qa-azlite4 (v2010.1008) (license-server-17/31495 1198), start Mon 9/24 3:42
+    Quantenna FAE4 LAPTOP-Q6ADI2G2 LAPTOP-Q6ADI2G2 (v2010.1008) (license-server-17/31495 2408), start Mon 9/24 5:34 (linger: 239100)
+
+  "ixchariot_fs" v2016.0831, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev cnqoffice cnqoffice (v2015.0420) (license-server-17/31495 3401), start Mon 9/17 7:25 (linger: 2597880)
+    admin node-226 node-226 (v2010.1008) (license-server-17/31495 4401), start Mon 9/17 7:25 (linger: 2640780)
+    quantenna AUTO-96 AUTO-96 (v2015.0420) (license-server-17/31495 4901), start Mon 9/17 7:25 (linger: 2640120)
+    autodev cn-automation3 cn-automation3 (v2015.0420) (license-server-17/31495 6301), start Mon 9/17 7:25 (linger: 2616960)
+    autodev AUTO-21 AUTO-21 (v2015.0420) (license-server-17/31495 7301), start Mon 9/17 7:25 (linger: 2608980)
+    autodev cnazlite-iot2 cnazlite-iot2 (v2010.1008) (license-server-17/31495 7801), start Mon 9/17 7:25 (linger: 2623380)
+    autodev Qhouse4_tt Qhouse4_tt (v2015.0420) (license-server-17/31495 8301), start Mon 9/17 7:25 (linger: 2671920)
+    Autodev cnazlite7 cnazlite7 (v2015.0420) (license-server-17/31495 10201), start Mon 9/17 7:25 (linger: 2595720)
+    quantenna AUTO-95 AUTO-95 (v2015.0420) (license-server-17/31495 14701), start Mon 9/17 7:25 (linger: 2641860)
+    autodev cnazlite-iot3 cnazlite-iot3 (v2015.0420) (license-server-17/31495 15201), start Mon 9/17 7:25 (linger: 2633580)
+    autodev SR6-TT SR6-TT (v2010.1008) (license-server-17/31495 16701), start Mon 9/17 7:25 (linger: 2641500)
+    autodev CNShieldRoom4-2 CNShieldRoom4-2 (v2015.0420) (license-server-17/31495 17701), start Mon 9/17 7:25 (linger: 2630460)
+    autodev azlite12 azlite12 (v2015.0420) (license-server-17/31495 19701), start Mon 9/17 7:25 (linger: 2662620)
+    autodev CNAzlite6 CNAzlite6 (v2010.1008) (license-server-17/31495 20201), start Mon 9/17 7:25 (linger: 2611440)
+    autodev CN-Azlite-IOT4 CN-Azlite-IOT4 (v2015.0420) (license-server-17/31495 20701), start Mon 9/17 7:25 (linger: 2626860)
+    autodev Ru-SQA-Qbox9 Ru-SQA-Qbox9 (v2015.0420) (license-server-17/31495 41684), start Thu 9/20 19:12
+    autodev SJC-Butler-3 SJC-Butler-3 (v2015.0420) (license-server-17/31495 23801), start Mon 9/17 7:27
+    WiFi qbox qbox (v2015.0420) (license-server-17/31495 25201), start Mon 9/17 7:27
+    quantenna Sydlab-iot-testlaptop-8260-1 Sydlab-iot-testlaptop-8260-1 (v2015.0420) (license-server-17/31495 38187), start Thu 9/20 1:00
+    Quantenna QVideoStress2 QVideoStress2 (v2015.0420) (license-server-17/31495 27901), start Mon 9/17 7:28
+    autodev auto_34 auto_34 (v2015.0420) (license-server-17/31495 30102), start Mon 9/17 7:28
+    autodev AZLITE-SYS3 AZLITE-SYS3 (v2015.0420) (license-server-17/31495 32002), start Mon 9/17 7:28
+    autodev ru-sw-mu-butler ru-sw-mu-butler (v2015.0420) (license-server-17/31495 43501), start Thu 9/20 13:18
+    autodev azlite_iot6 azlite_iot6 (v2015.0420) (license-server-17/31495 35201), start Mon 9/17 7:28
+    HWAE-Lab HWAE-Lab-PC HWAE-Lab-PC (v2015.0420) (license-server-17/31495 26603), start Tue 9/18 10:37
+    autodev AZLITE_SYS2 AZLITE_SYS2 (v2015.0420) (license-server-17/31495 31203), start Tue 9/18 17:38
+    autodev CNQBox11 CNQBox11 (v2015.0420) (license-server-17/31495 18475), start Thu 9/20 23:54 (linger: 2624700)
+    autodev cnstressbox cnstressbox (v2015.0420) (license-server-17/31495 36307), start Fri 9/21 6:15
+    autodev cnqhouse6 cnqhouse6 (v2015.0420) (license-server-17/31495 3359), start Sun 9/23 16:35 (linger: 2651040)
+    autodev fm-qa-azlite10 fm-qa-azlite10 (v2015.0420) (license-server-17/31495 2030), start Mon 9/24 5:06
+
+  "ixchariot_fs" v2018.0705, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev CNAzlite3 CNAzlite3 (v2010.1008) (license-server-17/31495 5301), start Mon 9/17 7:25 (linger: 2616900)
+    autodev cnbat cnbat (v2010.1008) (license-server-17/31495 5801), start Mon 9/17 7:25 (linger: 2601720)
+    autodev cnazlite-iot5 cnazlite-iot5 (v2010.1008) (license-server-17/31495 6801), start Mon 9/17 7:25 (linger: 2629380)
+    autodev CNQBox6 CNQBox6 (v2015.0420) (license-server-17/31495 8801), start Mon 9/17 7:25 (linger: 2611200)
+    autodev cnqhouse5 cnqhouse5 (v2015.0420) (license-server-17/31495 9301), start Mon 9/17 7:25 (linger: 2595360)
+    autodev QShieldRoom_IOT QShieldRoom_IOT (v2015.0420) (license-server-17/31495 9701), start Mon 9/17 7:25 (linger: 2647020)
+    autodev auto-IOT01 auto-IOT01 (v2015.0420) (license-server-17/31495 10701), start Mon 9/17 7:25 (linger: 2630400)
+    autodev cnazlite4 cnazlite4 (v2010.1008) (license-server-17/31495 11201), start Mon 9/17 7:25 (linger: 2628840)
+    autodev Qhouse5_TT Qhouse5_TT (v2015.0420) (license-server-17/31495 11701), start Mon 9/17 7:25 (linger: 2470020)
+    autodev BAT BAT (v2015.0420) (license-server-17/31495 12201), start Mon 9/17 7:25 (linger: 2630400)
+    autodev CNQBox5 CNQBox5 (v2010.1008) (license-server-17/31495 14201), start Mon 9/17 7:25 (linger: 2644620)
+    Autodev cnqoffice4iotconnect cnqoffice4iotconnect (v2010.1008) (license-server-17/31495 15701), start Mon 9/17 7:25 (linger: 2627280)
+    autodev CNAZlite11 CNAZlite11 (v2015.0420) (license-server-17/31495 17201), start Mon 9/17 7:25 (linger: 2639880)
+    autodev CNQBox10 CNQBox10 (v2015.0420) (license-server-17/31495 18701), start Mon 9/17 7:25 (linger: 2646480)
+    autodev AZLITE_SYS2 AZLITE_SYS2 (v2015.0420) (license-server-17/31495 22804), start Tue 9/18 16:39
+    autodev BAT3 BAT3 (v2015.0420) (license-server-17/31495 23240), start Thu 9/20 4:52 (linger: 2660820)
+    autodev Qbox5 Qbox5 (v2015.0420) (license-server-17/31495 27456), start Fri 9/21 18:32
+
+  "ixchariot_fs" v2018.1231, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    quantenna AUTO-98 AUTO-98 (v2015.0420) (license-server-17/31495 3901), start Mon 9/17 7:25 (linger: 2641680)
+    autodev cn4 cn4 (v2010.1008) (license-server-17/31495 12701), start Mon 9/17 7:25 (linger: 2626500)
+    autodev CNQH3 CNQH3 (v2015.0420) (license-server-17/31495 13201), start Mon 9/17 7:25 (linger: 2671860)
+    Autodev AUTO-11 AUTO-11 (v2010.1008) (license-server-17/31495 13701), start Mon 9/17 7:25 (linger: 2626500)
+    autodev AUTO-24 AUTO-24 (v2015.0420) (license-server-17/31495 16201), start Mon 9/17 7:25 (linger: 2652960)
+    autodev AUTO-14 AUTO-14 (v2015.0420) (license-server-17/31495 19201), start Mon 9/17 7:25 (linger: 2671440)
+    autodev AZLITE_SYS2 AZLITE_SYS2 (v2015.0420) (license-server-17/31495 38301), start Mon 9/17 7:29
+    autodev QOffice-BBIC5 QOffice-BBIC5 (v2015.0420) (license-server-17/31495 23183), start Mon 9/17 14:50
+    autodev QVideoStress QVideoStress (v2010.1008) (license-server-17/31495 41208), start Mon 9/17 18:47
+    autodev fm-sw-setup10 fm-sw-setup10 (v2015.0420) (license-server-17/31495 41020), start Mon 9/17 15:40
+    autodev CNQBox9 CNQBox9 (v2015.0420) (license-server-17/31495 36185), start Mon 9/17 23:41 (linger: 2625480)
+    autodev cnazlite8 cnazlite8 (v2015.0420) (license-server-17/31495 406), start Wed 9/19 4:19 (linger: 2608800)
+    autodev CNAzlite5 CNAzlite5 (v2015.0420) (license-server-17/31495 26779), start Wed 9/19 18:36 (linger: 2643780)
+    autodev cnstressbox cnstressbox (v2015.0420) (license-server-17/31495 41796), start Thu 9/20 0:35
+    autodev AUTO-31 AUTO-31 (v2015.0420) (license-server-17/31495 22985), start Thu 9/20 11:05
+    autodev Qbox5 Qbox5 (v2015.0420) (license-server-17/31495 31121), start Thu 9/20 13:10
+
+Users of chr_video_fs:  (Total of 186 licenses issued;  Total of 75 licenses in use)
+
+  "chr_video_fs" v2015.0325, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    admin node-226 node-226 (v2010.1008) (license-server-17/31495 4701), start Mon 9/17 7:25 (linger: 2640780)
+    autodev CNAzlite3 CNAzlite3 (v2010.1008) (license-server-17/31495 5601), start Mon 9/17 7:25 (linger: 2616840)
+    autodev cnazlite-iot5 cnazlite-iot5 (v2010.1008) (license-server-17/31495 7101), start Mon 9/17 7:25 (linger: 2629380)
+    autodev cnazlite4 cnazlite4 (v2010.1008) (license-server-17/31495 11501), start Mon 9/17 7:25 (linger: 2628780)
+    autodev cn4 cn4 (v2010.1008) (license-server-17/31495 13001), start Mon 9/17 7:25 (linger: 2626500)
+    Autodev AUTO-11 AUTO-11 (v2010.1008) (license-server-17/31495 14001), start Mon 9/17 7:25 (linger: 2626500)
+    autodev SR6-TT SR6-TT (v2010.1008) (license-server-17/31495 17001), start Mon 9/17 7:25 (linger: 2641500)
+    autodev AUTO-08 AUTO-08 (v2010.1008) (license-server-17/31495 25001), start Mon 9/17 7:27
+    autodev QOffice QOffice (v2010.1008) (license-server-17/31495 37001), start Mon 9/17 7:29
+    autodev ELECTROBIT ELECTROBIT (v2010.1008) (license-server-17/31495 30501), start Mon 9/17 7:28
+    autodev AUTO-46 AUTO-46 (v2010.1008) (license-server-17/31495 40087), start Wed 9/19 10:17
+    autodev electrobit2 electrobit2 (v2010.1008) (license-server-17/31495 33718), start Fri 9/21 15:10
+    autodev ru-qa-azlite4 ru-qa-azlite4 (v2010.1008) (license-server-17/31495 2857), start Mon 9/24 3:43
+    Quantenna FAE4 LAPTOP-Q6ADI2G2 LAPTOP-Q6ADI2G2 (v2010.1008) (license-server-17/31495 1908), start Mon 9/24 5:34 (linger: 239100)
+
+  "chr_video_fs" v2016.0831, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev cnqoffice cnqoffice (v2015.0420) (license-server-17/31495 3701), start Mon 9/17 7:25 (linger: 2597820)
+    quantenna AUTO-96 AUTO-96 (v2015.0420) (license-server-17/31495 5201), start Mon 9/17 7:25 (linger: 2640120)
+    autodev cnbat cnbat (v2010.1008) (license-server-17/31495 6101), start Mon 9/17 7:25 (linger: 2601720)
+    autodev cn-automation3 cn-automation3 (v2015.0420) (license-server-17/31495 6601), start Mon 9/17 7:25 (linger: 2616960)
+    autodev AUTO-21 AUTO-21 (v2015.0420) (license-server-17/31495 7601), start Mon 9/17 7:25 (linger: 2608980)
+    autodev cnazlite-iot2 cnazlite-iot2 (v2010.1008) (license-server-17/31495 8101), start Mon 9/17 7:25 (linger: 2623380)
+    Autodev cnazlite7 cnazlite7 (v2015.0420) (license-server-17/31495 10501), start Mon 9/17 7:25 (linger: 2595720)
+    autodev CNQH3 CNQH3 (v2015.0420) (license-server-17/31495 13501), start Mon 9/17 7:25 (linger: 2671860)
+    autodev CNAZlite11 CNAZlite11 (v2015.0420) (license-server-17/31495 17501), start Mon 9/17 7:25 (linger: 2639880)
+    autodev CNShieldRoom4-2 CNShieldRoom4-2 (v2015.0420) (license-server-17/31495 18001), start Mon 9/17 7:25 (linger: 2630460)
+    autodev CNQBox10 CNQBox10 (v2015.0420) (license-server-17/31495 19001), start Mon 9/17 7:25 (linger: 2646480)
+    autodev Ru-SQA-Qbox9 Ru-SQA-Qbox9 (v2015.0420) (license-server-17/31495 25833), start Thu 9/20 19:12
+    autodev SJC-Butler-3 SJC-Butler-3 (v2015.0420) (license-server-17/31495 24101), start Mon 9/17 7:27
+    WiFi qbox qbox (v2015.0420) (license-server-17/31495 25501), start Mon 9/17 7:27
+    quantenna Sydlab-iot-testlaptop-8260-1 Sydlab-iot-testlaptop-8260-1 (v2015.0420) (license-server-17/31495 24571), start Thu 9/20 1:00
+    Quantenna QVideoStress2 QVideoStress2 (v2015.0420) (license-server-17/31495 28401), start Mon 9/17 7:28
+    autodev auto_34 auto_34 (v2015.0420) (license-server-17/31495 29802), start Mon 9/17 7:28
+    autodev AZLITE-SYS3 AZLITE-SYS3 (v2015.0420) (license-server-17/31495 31802), start Mon 9/17 7:28
+    autodev ru-sw-butler2 ru-sw-butler2 (v2010.1008) (license-server-17/31495 39305), start Thu 9/20 13:18
+    autodev ru-sw-mu-butler ru-sw-mu-butler (v2015.0420) (license-server-17/31495 43801), start Thu 9/20 13:18
+    autodev SJ_SW_AZLITE_01 SJ_SW_AZLITE_01 (v2010.1008) (license-server-17/31495 34501), start Mon 9/17 7:28
+    wxie sh-sw-wxie02 sh-sw-wxie02 (v2010.1008) (license-server-17/31495 31367), start Wed 9/19 22:22
+    autodev AZLITE_SYS2 AZLITE_SYS2 (v2015.0420) (license-server-17/31495 40502), start Tue 9/18 17:45
+    autodev Azlite1 Azlite1 (v2010.1008) (license-server-17/31495 42153), start Wed 9/19 12:45
+    autodev BAT3 BAT3 (v2015.0420) (license-server-17/31495 42670), start Thu 9/20 4:52 (linger: 2660820)
+    autodev CNQBox11 CNQBox11 (v2015.0420) (license-server-17/31495 43092), start Thu 9/20 23:54 (linger: 2624700)
+    autodev cnstressbox cnstressbox (v2015.0420) (license-server-17/31495 43273), start Fri 9/21 6:15
+    autodev cnqhouse6 cnqhouse6 (v2015.0420) (license-server-17/31495 3159), start Sun 9/23 16:36 (linger: 2650980)
+    autodev fm-qa-azlite10 fm-qa-azlite10 (v2015.0420) (license-server-17/31495 2121), start Mon 9/24 5:06
+
+  "chr_video_fs" v2018.0705, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev Qhouse4_tt Qhouse4_tt (v2015.0420) (license-server-17/31495 8601), start Mon 9/17 7:25 (linger: 2671920)
+    autodev CNQBox6 CNQBox6 (v2015.0420) (license-server-17/31495 9101), start Mon 9/17 7:25 (linger: 2611200)
+    autodev cnqhouse5 cnqhouse5 (v2015.0420) (license-server-17/31495 9601), start Mon 9/17 7:25 (linger: 2595300)
+    autodev QShieldRoom_IOT QShieldRoom_IOT (v2015.0420) (license-server-17/31495 10001), start Mon 9/17 7:25 (linger: 2647020)
+    autodev auto-IOT01 auto-IOT01 (v2015.0420) (license-server-17/31495 11001), start Mon 9/17 7:25 (linger: 2630400)
+    autodev Qhouse5_TT Qhouse5_TT (v2015.0420) (license-server-17/31495 12001), start Mon 9/17 7:25 (linger: 2470020)
+    autodev CNQBox5 CNQBox5 (v2010.1008) (license-server-17/31495 14501), start Mon 9/17 7:25 (linger: 2644620)
+    quantenna AUTO-95 AUTO-95 (v2015.0420) (license-server-17/31495 15001), start Mon 9/17 7:25 (linger: 2641800)
+    autodev cnazlite-iot3 cnazlite-iot3 (v2015.0420) (license-server-17/31495 15501), start Mon 9/17 7:25 (linger: 2633520)
+    autodev azlite12 azlite12 (v2015.0420) (license-server-17/31495 20001), start Mon 9/17 7:25 (linger: 2662620)
+    autodev CN-Azlite-IOT4 CN-Azlite-IOT4 (v2015.0420) (license-server-17/31495 21001), start Mon 9/17 7:25 (linger: 2626860)
+    quantenna sigma-dut-ca WFA-ACC (v2010.1008) (license-server-17/31495 35001), start Mon 9/17 7:28
+    autodev azlite_iot6 azlite_iot6 (v2015.0420) (license-server-17/31495 35501), start Mon 9/17 7:28
+    autodev AZLITE_SYS2 AZLITE_SYS2 (v2015.0420) (license-server-17/31495 38601), start Mon 9/17 7:29
+    autodev AUTO-46 AUTO-46 (v2010.1008) (license-server-17/31495 39001), start Mon 9/17 7:29
+    autodev cnstressbox cnstressbox (v2015.0420) (license-server-17/31495 35753), start Thu 9/20 0:35
+    autodev AUTO-31 AUTO-31 (v2015.0420) (license-server-17/31495 30985), start Thu 9/20 11:05
+    autodev Qbox5 Qbox5 (v2015.0420) (license-server-17/31495 39791), start Fri 9/21 18:33
+
+  "chr_video_fs" v2018.1231, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    quantenna AUTO-98 AUTO-98 (v2015.0420) (license-server-17/31495 4201), start Mon 9/17 7:25 (linger: 2641680)
+    autodev BAT BAT (v2015.0420) (license-server-17/31495 12501), start Mon 9/17 7:25 (linger: 2630400)
+    Autodev cnqoffice4iotconnect cnqoffice4iotconnect (v2010.1008) (license-server-17/31495 16001), start Mon 9/17 7:25 (linger: 2627280)
+    autodev AUTO-24 AUTO-24 (v2015.0420) (license-server-17/31495 16501), start Mon 9/17 7:25 (linger: 2652960)
+    autodev AUTO-14 AUTO-14 (v2015.0420) (license-server-17/31495 19501), start Mon 9/17 7:25 (linger: 2671440)
+    autodev CNAzlite6 CNAzlite6 (v2010.1008) (license-server-17/31495 20501), start Mon 9/17 7:25 (linger: 2611440)
+    autodev QOffice-BBIC5 QOffice-BBIC5 (v2015.0420) (license-server-17/31495 40811), start Mon 9/17 14:50
+    autodev QVideoStress QVideoStress (v2010.1008) (license-server-17/31495 40278), start Mon 9/17 18:47
+    autodev fm-sw-setup10 fm-sw-setup10 (v2015.0420) (license-server-17/31495 40973), start Mon 9/17 15:40
+    autodev CNQBox9 CNQBox9 (v2015.0420) (license-server-17/31495 39514), start Mon 9/17 23:41 (linger: 2625480)
+    HWAE-Lab HWAE-Lab-PC HWAE-Lab-PC (v2015.0420) (license-server-17/31495 21611), start Tue 9/18 10:37
+    autodev cnazlite8 cnazlite8 (v2015.0420) (license-server-17/31495 26984), start Wed 9/19 4:19 (linger: 2608800)
+    autodev CNAzlite5 CNAzlite5 (v2015.0420) (license-server-17/31495 29568), start Wed 9/19 18:36 (linger: 2643780)
+    autodev Qbox5 Qbox5 (v2015.0420) (license-server-17/31495 24664), start Thu 9/20 13:10
+
+Users of chr_voip_fs:  (Total of 186 licenses issued;  Total of 78 licenses in use)
+
+  "chr_voip_fs" v2015.0325, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    admin node-226 node-226 (v2010.1008) (license-server-17/31495 4501), start Mon 9/17 7:25 (linger: 2640780)
+    autodev CNAzlite3 CNAzlite3 (v2010.1008) (license-server-17/31495 5401), start Mon 9/17 7:25 (linger: 2616900)
+    autodev cnbat cnbat (v2010.1008) (license-server-17/31495 5901), start Mon 9/17 7:25 (linger: 2601720)
+    autodev cnazlite-iot5 cnazlite-iot5 (v2010.1008) (license-server-17/31495 6901), start Mon 9/17 7:25 (linger: 2629380)
+    autodev cnazlite4 cnazlite4 (v2010.1008) (license-server-17/31495 11301), start Mon 9/17 7:25 (linger: 2628780)
+    autodev cn4 cn4 (v2010.1008) (license-server-17/31495 12801), start Mon 9/17 7:25 (linger: 2626500)
+    Autodev AUTO-11 AUTO-11 (v2010.1008) (license-server-17/31495 13801), start Mon 9/17 7:25 (linger: 2626500)
+    autodev SR6-TT SR6-TT (v2010.1008) (license-server-17/31495 16801), start Mon 9/17 7:25 (linger: 2641500)
+    autodev AUTO-08 AUTO-08 (v2010.1008) (license-server-17/31495 24801), start Mon 9/17 7:27
+    autodev QOffice QOffice (v2010.1008) (license-server-17/31495 36801), start Mon 9/17 7:29
+    autodev AUTO-46 AUTO-46 (v2010.1008) (license-server-17/31495 25974), start Wed 9/19 10:17
+    autodev electrobit2 electrobit2 (v2010.1008) (license-server-17/31495 33419), start Fri 9/21 15:10
+    autodev QVideoStress QVideoStress (v2010.1008) (license-server-17/31495 27248), start Fri 9/21 16:03
+    autodev ru-qa-azlite4 ru-qa-azlite4 (v2010.1008) (license-server-17/31495 27349), start Mon 9/24 3:43
+    Quantenna FAE4 LAPTOP-Q6ADI2G2 LAPTOP-Q6ADI2G2 (v2010.1008) (license-server-17/31495 2508), start Mon 9/24 5:34 (linger: 239100)
+
+  "chr_voip_fs" v2016.0831, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev cnqoffice cnqoffice (v2015.0420) (license-server-17/31495 3501), start Mon 9/17 7:25 (linger: 2597880)
+    quantenna AUTO-98 AUTO-98 (v2015.0420) (license-server-17/31495 4001), start Mon 9/17 7:25 (linger: 2641680)
+    quantenna AUTO-96 AUTO-96 (v2015.0420) (license-server-17/31495 5001), start Mon 9/17 7:25 (linger: 2640120)
+    autodev AUTO-21 AUTO-21 (v2015.0420) (license-server-17/31495 7401), start Mon 9/17 7:25 (linger: 2608980)
+    autodev cnazlite-iot2 cnazlite-iot2 (v2010.1008) (license-server-17/31495 7901), start Mon 9/17 7:25 (linger: 2623380)
+    Autodev cnazlite7 cnazlite7 (v2015.0420) (license-server-17/31495 10301), start Mon 9/17 7:25 (linger: 2595720)
+    autodev auto-IOT01 auto-IOT01 (v2015.0420) (license-server-17/31495 10801), start Mon 9/17 7:25 (linger: 2630400)
+    autodev Qhouse5_TT Qhouse5_TT (v2015.0420) (license-server-17/31495 11801), start Mon 9/17 7:25 (linger: 2470020)
+    autodev CNQH3 CNQH3 (v2015.0420) (license-server-17/31495 13301), start Mon 9/17 7:25 (linger: 2671860)
+    quantenna AUTO-95 AUTO-95 (v2015.0420) (license-server-17/31495 14801), start Mon 9/17 7:25 (linger: 2641860)
+    autodev azlite12 azlite12 (v2015.0420) (license-server-17/31495 19801), start Mon 9/17 7:25 (linger: 2662620)
+    autodev CNAzlite6 CNAzlite6 (v2010.1008) (license-server-17/31495 20301), start Mon 9/17 7:25 (linger: 2611440)
+    autodev Ru-SQA-Qbox9 Ru-SQA-Qbox9 (v2015.0420) (license-server-17/31495 21515), start Thu 9/20 19:12
+    autodev SJC-Butler-3 SJC-Butler-3 (v2015.0420) (license-server-17/31495 23901), start Mon 9/17 7:27
+    WiFi qbox qbox (v2015.0420) (license-server-17/31495 25301), start Mon 9/17 7:27
+    quantenna Sydlab-iot-testlaptop-8260-1 Sydlab-iot-testlaptop-8260-1 (v2015.0420) (license-server-17/31495 39689), start Thu 9/20 1:00
+    Quantenna QVideoStress2 QVideoStress2 (v2015.0420) (license-server-17/31495 28101), start Mon 9/17 7:28
+    autodev auto_34 auto_34 (v2015.0420) (license-server-17/31495 30002), start Mon 9/17 7:28
+    autodev ELECTROBIT ELECTROBIT (v2010.1008) (license-server-17/31495 30301), start Mon 9/17 7:28
+    autodev ru-sw-butler2 ru-sw-butler2 (v2010.1008) (license-server-17/31495 31695), start Thu 9/20 13:18
+    autodev AZLITE-SYS3 AZLITE-SYS3 (v2015.0420) (license-server-17/31495 31902), start Mon 9/17 7:28
+    autodev ru-sw-mu-butler ru-sw-mu-butler (v2015.0420) (license-server-17/31495 43601), start Thu 9/20 13:18
+    HWAE-Lab HWAE-Lab-PC HWAE-Lab-PC (v2015.0420) (license-server-17/31495 34031), start Tue 9/18 10:37
+    autodev AZLITE_SYS2 AZLITE_SYS2 (v2015.0420) (license-server-17/31495 31403), start Tue 9/18 17:38
+    autodev AUTO-46 AUTO-46 (v2010.1008) (license-server-17/31495 39498), start Tue 9/18 22:07
+    autodev BAT3 BAT3 (v2015.0420) (license-server-17/31495 43318), start Thu 9/20 4:52 (linger: 2660820)
+    autodev CNQBox11 CNQBox11 (v2015.0420) (license-server-17/31495 33204), start Thu 9/20 23:54 (linger: 2624700)
+    autodev cnstressbox cnstressbox (v2015.0420) (license-server-17/31495 1028), start Fri 9/21 6:15
+    autodev QVideoStress QVideoStress (v2010.1008) (license-server-17/31495 734), start Fri 9/21 15:47
+    autodev cnqhouse6 cnqhouse6 (v2015.0420) (license-server-17/31495 2959), start Sun 9/23 16:35 (linger: 2651040)
+    autodev fm-qa-azlite10 fm-qa-azlite10 (v2015.0420) (license-server-17/31495 665), start Mon 9/24 5:06
+
+  "chr_voip_fs" v2018.0705, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev Qhouse4_tt Qhouse4_tt (v2015.0420) (license-server-17/31495 8401), start Mon 9/17 7:25 (linger: 2671920)
+    autodev cnqhouse5 cnqhouse5 (v2015.0420) (license-server-17/31495 9401), start Mon 9/17 7:25 (linger: 2595360)
+    autodev QShieldRoom_IOT QShieldRoom_IOT (v2015.0420) (license-server-17/31495 9801), start Mon 9/17 7:25 (linger: 2647020)
+    autodev BAT BAT (v2015.0420) (license-server-17/31495 12301), start Mon 9/17 7:25 (linger: 2630400)
+    autodev CNQBox5 CNQBox5 (v2010.1008) (license-server-17/31495 14301), start Mon 9/17 7:25 (linger: 2644620)
+    autodev cnazlite-iot3 cnazlite-iot3 (v2015.0420) (license-server-17/31495 15301), start Mon 9/17 7:25 (linger: 2633580)
+    Autodev cnqoffice4iotconnect cnqoffice4iotconnect (v2010.1008) (license-server-17/31495 15801), start Mon 9/17 7:25 (linger: 2627280)
+    autodev CNAZlite11 CNAZlite11 (v2015.0420) (license-server-17/31495 17301), start Mon 9/17 7:25 (linger: 2639880)
+    autodev CNShieldRoom4-2 CNShieldRoom4-2 (v2015.0420) (license-server-17/31495 17801), start Mon 9/17 7:25 (linger: 2630460)
+    autodev SJ_SW_AZLITE_01 SJ_SW_AZLITE_01 (v2010.1008) (license-server-17/31495 34301), start Mon 9/17 7:28
+    quantenna sigma-dut-ca WFA-ACC (v2010.1008) (license-server-17/31495 34801), start Mon 9/17 7:28
+    autodev azlite_iot6 azlite_iot6 (v2015.0420) (license-server-17/31495 35301), start Mon 9/17 7:28
+    autodev AZLITE_SYS2 AZLITE_SYS2 (v2015.0420) (license-server-17/31495 38401), start Mon 9/17 7:29
+    autodev AUTO-46 AUTO-46 (v2010.1008) (license-server-17/31495 38801), start Mon 9/17 7:29
+    autodev cnazlite8 cnazlite8 (v2015.0420) (license-server-17/31495 306), start Wed 9/19 4:19 (linger: 2608800)
+    autodev Azlite1 Azlite1 (v2010.1008) (license-server-17/31495 25756), start Wed 9/19 12:45
+    autodev AUTO-31 AUTO-31 (v2015.0420) (license-server-17/31495 42357), start Thu 9/20 11:06
+
+  "chr_voip_fs" v2018.1231, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev cn-automation3 cn-automation3 (v2015.0420) (license-server-17/31495 6401), start Mon 9/17 7:25 (linger: 2616960)
+    autodev CNQBox6 CNQBox6 (v2015.0420) (license-server-17/31495 8901), start Mon 9/17 7:25 (linger: 2611200)
+    autodev AUTO-24 AUTO-24 (v2015.0420) (license-server-17/31495 16301), start Mon 9/17 7:25 (linger: 2652960)
+    autodev CNQBox10 CNQBox10 (v2015.0420) (license-server-17/31495 18801), start Mon 9/17 7:25 (linger: 2646480)
+    autodev AUTO-14 AUTO-14 (v2015.0420) (license-server-17/31495 19301), start Mon 9/17 7:25 (linger: 2671440)
+    autodev CN-Azlite-IOT4 CN-Azlite-IOT4 (v2015.0420) (license-server-17/31495 20801), start Mon 9/17 7:25 (linger: 2626860)
+    autodev QOffice-BBIC5 QOffice-BBIC5 (v2015.0420) (license-server-17/31495 40455), start Mon 9/17 14:50
+    autodev QVideoStress QVideoStress (v2010.1008) (license-server-17/31495 41149), start Mon 9/17 18:47
+    autodev fm-sw-setup10 fm-sw-setup10 (v2015.0420) (license-server-17/31495 40378), start Mon 9/17 15:40
+    wxie sh-sw-wxie02 sh-sw-wxie02 (v2010.1008) (license-server-17/31495 37965), start Wed 9/19 22:22
+    autodev CNQBox9 CNQBox9 (v2015.0420) (license-server-17/31495 40707), start Mon 9/17 23:41 (linger: 2625480)
+    autodev CNAzlite5 CNAzlite5 (v2015.0420) (license-server-17/31495 164), start Wed 9/19 18:36 (linger: 2643780)
+    autodev cnstressbox cnstressbox (v2015.0420) (license-server-17/31495 26379), start Thu 9/20 0:35
+    autodev AUTO-31 AUTO-31 (v2015.0420) (license-server-17/31495 38254), start Thu 9/20 11:05
+    autodev Qbox5 Qbox5 (v2015.0420) (license-server-17/31495 34194), start Thu 9/20 13:10
+
+Users of chr_ip6_fs:  (Total of 186 licenses issued;  Total of 76 licenses in use)
+
+  "chr_ip6_fs" v2015.0325, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    admin node-226 node-226 (v2010.1008) (license-server-17/31495 4601), start Mon 9/17 7:25 (linger: 2640780)
+    autodev CNAzlite3 CNAzlite3 (v2010.1008) (license-server-17/31495 5501), start Mon 9/17 7:25 (linger: 2616900)
+    autodev cnbat cnbat (v2010.1008) (license-server-17/31495 6001), start Mon 9/17 7:25 (linger: 2601720)
+    autodev cnazlite-iot5 cnazlite-iot5 (v2010.1008) (license-server-17/31495 7001), start Mon 9/17 7:25 (linger: 2629380)
+    autodev cnazlite4 cnazlite4 (v2010.1008) (license-server-17/31495 11401), start Mon 9/17 7:25 (linger: 2628780)
+    autodev cn4 cn4 (v2010.1008) (license-server-17/31495 12901), start Mon 9/17 7:25 (linger: 2626500)
+    Autodev AUTO-11 AUTO-11 (v2010.1008) (license-server-17/31495 13901), start Mon 9/17 7:25 (linger: 2626500)
+    autodev AUTO-08 AUTO-08 (v2010.1008) (license-server-17/31495 24901), start Mon 9/17 7:27
+    autodev QOffice QOffice (v2010.1008) (license-server-17/31495 36901), start Mon 9/17 7:29
+    autodev ELECTROBIT ELECTROBIT (v2010.1008) (license-server-17/31495 30401), start Mon 9/17 7:28
+    autodev AUTO-46 AUTO-46 (v2010.1008) (license-server-17/31495 41963), start Wed 9/19 10:17
+    autodev electrobit2 electrobit2 (v2010.1008) (license-server-17/31495 37434), start Fri 9/21 15:10
+    autodev ru-qa-azlite4 ru-qa-azlite4 (v2010.1008) (license-server-17/31495 23081), start Mon 9/24 3:43
+    Quantenna FAE4 LAPTOP-Q6ADI2G2 LAPTOP-Q6ADI2G2 (v2010.1008) (license-server-17/31495 2708), start Mon 9/24 5:34 (linger: 239100)
+
+  "chr_ip6_fs" v2016.0831, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev cnqoffice cnqoffice (v2015.0420) (license-server-17/31495 3601), start Mon 9/17 7:25 (linger: 2597880)
+    quantenna AUTO-98 AUTO-98 (v2015.0420) (license-server-17/31495 4101), start Mon 9/17 7:25 (linger: 2641680)
+    quantenna AUTO-96 AUTO-96 (v2015.0420) (license-server-17/31495 5101), start Mon 9/17 7:25 (linger: 2640120)
+    autodev AUTO-21 AUTO-21 (v2015.0420) (license-server-17/31495 7501), start Mon 9/17 7:25 (linger: 2608980)
+    autodev cnazlite-iot2 cnazlite-iot2 (v2010.1008) (license-server-17/31495 8001), start Mon 9/17 7:25 (linger: 2623380)
+    Autodev cnazlite7 cnazlite7 (v2015.0420) (license-server-17/31495 10401), start Mon 9/17 7:25 (linger: 2595720)
+    autodev auto-IOT01 auto-IOT01 (v2015.0420) (license-server-17/31495 10901), start Mon 9/17 7:25 (linger: 2630400)
+    autodev CNQH3 CNQH3 (v2015.0420) (license-server-17/31495 13401), start Mon 9/17 7:25 (linger: 2671860)
+    autodev CNShieldRoom4-2 CNShieldRoom4-2 (v2015.0420) (license-server-17/31495 17901), start Mon 9/17 7:25 (linger: 2630460)
+    autodev CNQBox10 CNQBox10 (v2015.0420) (license-server-17/31495 18901), start Mon 9/17 7:25 (linger: 2646480)
+    autodev CNAzlite6 CNAzlite6 (v2010.1008) (license-server-17/31495 20401), start Mon 9/17 7:25 (linger: 2611440)
+    autodev Ru-SQA-Qbox9 Ru-SQA-Qbox9 (v2015.0420) (license-server-17/31495 29608), start Thu 9/20 19:12
+    autodev SJC-Butler-3 SJC-Butler-3 (v2015.0420) (license-server-17/31495 24001), start Mon 9/17 7:27
+    WiFi qbox qbox (v2015.0420) (license-server-17/31495 25401), start Mon 9/17 7:27
+    quantenna Sydlab-iot-testlaptop-8260-1 Sydlab-iot-testlaptop-8260-1 (v2015.0420) (license-server-17/31495 26804), start Thu 9/20 1:00
+    Quantenna QVideoStress2 QVideoStress2 (v2015.0420) (license-server-17/31495 28201), start Mon 9/17 7:28
+    autodev auto_34 auto_34 (v2015.0420) (license-server-17/31495 29902), start Mon 9/17 7:28
+    autodev ru-sw-butler2 ru-sw-butler2 (v2010.1008) (license-server-17/31495 27044), start Thu 9/20 13:18
+    autodev AZLITE-SYS3 AZLITE-SYS3 (v2015.0420) (license-server-17/31495 32202), start Mon 9/17 7:28
+    autodev ru-sw-mu-butler ru-sw-mu-butler (v2015.0420) (license-server-17/31495 43701), start Thu 9/20 13:18
+    autodev SJ_SW_AZLITE_01 SJ_SW_AZLITE_01 (v2010.1008) (license-server-17/31495 34401), start Mon 9/17 7:28
+    HWAE-Lab HWAE-Lab-PC HWAE-Lab-PC (v2015.0420) (license-server-17/31495 22509), start Tue 9/18 10:37
+    autodev AZLITE_SYS2 AZLITE_SYS2 (v2015.0420) (license-server-17/31495 31503), start Tue 9/18 17:38
+    autodev AUTO-46 AUTO-46 (v2010.1008) (license-server-17/31495 18603), start Tue 9/18 22:07
+    autodev BAT3 BAT3 (v2015.0420) (license-server-17/31495 26114), start Thu 9/20 4:52 (linger: 2660820)
+    autodev CNQBox11 CNQBox11 (v2015.0420) (license-server-17/31495 23381), start Thu 9/20 23:54 (linger: 2624700)
+    autodev cnstressbox cnstressbox (v2015.0420) (license-server-17/31495 1328), start Fri 9/21 6:15
+    autodev cnqhouse6 cnqhouse6 (v2015.0420) (license-server-17/31495 3059), start Sun 9/23 16:36 (linger: 2650980)
+    autodev fm-qa-azlite10 fm-qa-azlite10 (v2015.0420) (license-server-17/31495 23529), start Mon 9/24 5:06
+
+  "chr_ip6_fs" v2018.0705, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev cn-automation3 cn-automation3 (v2015.0420) (license-server-17/31495 6501), start Mon 9/17 7:25 (linger: 2616960)
+    autodev Qhouse4_tt Qhouse4_tt (v2015.0420) (license-server-17/31495 8501), start Mon 9/17 7:25 (linger: 2671920)
+    autodev CNQBox6 CNQBox6 (v2015.0420) (license-server-17/31495 9001), start Mon 9/17 7:25 (linger: 2611200)
+    autodev cnqhouse5 cnqhouse5 (v2015.0420) (license-server-17/31495 9501), start Mon 9/17 7:25 (linger: 2595300)
+    autodev QShieldRoom_IOT QShieldRoom_IOT (v2015.0420) (license-server-17/31495 9901), start Mon 9/17 7:25 (linger: 2647020)
+    autodev Qhouse5_TT Qhouse5_TT (v2015.0420) (license-server-17/31495 11901), start Mon 9/17 7:25 (linger: 2470020)
+    quantenna AUTO-95 AUTO-95 (v2015.0420) (license-server-17/31495 14901), start Mon 9/17 7:25 (linger: 2641800)
+    autodev cnazlite-iot3 cnazlite-iot3 (v2015.0420) (license-server-17/31495 15401), start Mon 9/17 7:25 (linger: 2633580)
+    Autodev cnqoffice4iotconnect cnqoffice4iotconnect (v2010.1008) (license-server-17/31495 15901), start Mon 9/17 7:25 (linger: 2627280)
+    autodev SR6-TT SR6-TT (v2010.1008) (license-server-17/31495 16901), start Mon 9/17 7:25 (linger: 2641500)
+    autodev CNAZlite11 CNAZlite11 (v2015.0420) (license-server-17/31495 17401), start Mon 9/17 7:25 (linger: 2639880)
+    autodev azlite12 azlite12 (v2015.0420) (license-server-17/31495 19901), start Mon 9/17 7:25 (linger: 2662620)
+    quantenna sigma-dut-ca WFA-ACC (v2010.1008) (license-server-17/31495 34901), start Mon 9/17 7:28
+    autodev azlite_iot6 azlite_iot6 (v2015.0420) (license-server-17/31495 35401), start Mon 9/17 7:28
+    autodev AZLITE_SYS2 AZLITE_SYS2 (v2015.0420) (license-server-17/31495 38501), start Mon 9/17 7:29
+    autodev AUTO-46 AUTO-46 (v2010.1008) (license-server-17/31495 38901), start Mon 9/17 7:29
+    autodev Azlite1 Azlite1 (v2010.1008) (license-server-17/31495 38092), start Wed 9/19 12:45
+    autodev AUTO-31 AUTO-31 (v2015.0420) (license-server-17/31495 42218), start Thu 9/20 11:05
+    autodev Qbox5 Qbox5 (v2015.0420) (license-server-17/31495 33692), start Fri 9/21 18:32
+
+  "chr_ip6_fs" v2018.1231, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev BAT BAT (v2015.0420) (license-server-17/31495 12401), start Mon 9/17 7:25 (linger: 2630400)
+    autodev CNQBox5 CNQBox5 (v2010.1008) (license-server-17/31495 14401), start Mon 9/17 7:25 (linger: 2644620)
+    autodev AUTO-24 AUTO-24 (v2015.0420) (license-server-17/31495 16401), start Mon 9/17 7:25 (linger: 2652960)
+    autodev AUTO-14 AUTO-14 (v2015.0420) (license-server-17/31495 19401), start Mon 9/17 7:25 (linger: 2671440)
+    autodev CN-Azlite-IOT4 CN-Azlite-IOT4 (v2015.0420) (license-server-17/31495 20901), start Mon 9/17 7:25 (linger: 2626860)
+    autodev QOffice-BBIC5 QOffice-BBIC5 (v2015.0420) (license-server-17/31495 35833), start Mon 9/17 14:50
+    autodev QVideoStress QVideoStress (v2010.1008) (license-server-17/31495 22322), start Mon 9/17 18:47
+    autodev fm-sw-setup10 fm-sw-setup10 (v2015.0420) (license-server-17/31495 36069), start Mon 9/17 15:40
+    wxie sh-sw-wxie02 sh-sw-wxie02 (v2010.1008) (license-server-17/31495 29171), start Wed 9/19 22:22
+    autodev CNQBox9 CNQBox9 (v2015.0420) (license-server-17/31495 41329), start Mon 9/17 23:41 (linger: 2625480)
+    autodev cnazlite8 cnazlite8 (v2015.0420) (license-server-17/31495 18529), start Wed 9/19 4:19 (linger: 2608800)
+    autodev CNAzlite5 CNAzlite5 (v2015.0420) (license-server-17/31495 41451), start Wed 9/19 18:36 (linger: 2643780)
+    autodev cnstressbox cnstressbox (v2015.0420) (license-server-17/31495 30709), start Thu 9/20 0:35
+    autodev Qbox5 Qbox5 (v2015.0420) (license-server-17/31495 32557), start Thu 9/20 13:10
+
+Users of ixchariot_blank:  (Total of 2147483646 licenses issued;  Total of 0 licenses in use)
+
+Users of chr_pairs_fs:  (Total of 5000 licenses issued;  Total of 2020 licenses in use)
+
+  "chr_pairs_fs" v2016.0929, vendor: ixialm, expiry: 1-jan-0
+  floating license
+
+    autodev Ru-SQA-Qbox9 Ru-SQA-Qbox9 (v2015.0420) (license-server-17/31495 33019), start Thu 9/20 19:12, 200 licenses
+    autodev cnqoffice cnqoffice (v2015.0420) (license-server-17/31495 3801), start Mon 9/17 7:25, 50 licenses (linger: 2597820)
+    quantenna AUTO-98 AUTO-98 (v2015.0420) (license-server-17/31495 4301), start Mon 9/17 7:25, 20 licenses (linger: 2641680)
+    admin node-226 node-226 (v2010.1008) (license-server-17/31495 4801), start Mon 9/17 7:25, 20 licenses (linger: 2640780)
+    autodev CNAzlite3 CNAzlite3 (v2010.1008) (license-server-17/31495 5701), start Mon 9/17 7:25, 20 licenses (linger: 2616840)
+    autodev cnbat cnbat (v2010.1008) (license-server-17/31495 6201), start Mon 9/17 7:25, 50 licenses (linger: 2601720)
+    autodev cn-automation3 cn-automation3 (v2015.0420) (license-server-17/31495 6701), start Mon 9/17 7:25, 20 licenses (linger: 2616960)
+    autodev cnazlite-iot5 cnazlite-iot5 (v2010.1008) (license-server-17/31495 7201), start Mon 9/17 7:25, 20 licenses (linger: 2629380)
+    autodev AUTO-21 AUTO-21 (v2015.0420) (license-server-17/31495 7701), start Mon 9/17 7:25, 20 licenses (linger: 2608980)
+    autodev cnazlite-iot2 cnazlite-iot2 (v2010.1008) (license-server-17/31495 8201), start Mon 9/17 7:25, 20 licenses (linger: 2623380)
+    autodev Qhouse4_tt Qhouse4_tt (v2015.0420) (license-server-17/31495 8701), start Mon 9/17 7:25, 30 licenses (linger: 2671920)
+    autodev CNQBox6 CNQBox6 (v2015.0420) (license-server-17/31495 9201), start Mon 9/17 7:25, 20 licenses (linger: 2611140)
+    autodev QShieldRoom_IOT QShieldRoom_IOT (v2015.0420) (license-server-17/31495 10101), start Mon 9/17 7:25, 50 licenses (linger: 2647020)
+    Autodev cnazlite7 cnazlite7 (v2015.0420) (license-server-17/31495 10601), start Mon 9/17 7:25, 20 licenses (linger: 2595720)
+    autodev auto-IOT01 auto-IOT01 (v2015.0420) (license-server-17/31495 11101), start Mon 9/17 7:25, 20 licenses (linger: 2630340)
+    autodev cnazlite4 cnazlite4 (v2010.1008) (license-server-17/31495 11601), start Mon 9/17 7:25, 20 licenses (linger: 2628780)
+    autodev Qhouse5_TT Qhouse5_TT (v2015.0420) (license-server-17/31495 12101), start Mon 9/17 7:25, 50 licenses (linger: 2470020)
+    autodev BAT BAT (v2015.0420) (license-server-17/31495 12601), start Mon 9/17 7:25, 50 licenses (linger: 2630400)
+
+Users of IXFEATURE:  (Uncounted, node-locked)
+
+
