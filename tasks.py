@@ -121,15 +121,10 @@ if __name__ == '__main__':
     db = client['lmstat_db']
     collection = db['tasks']
     sections = parse_log('data.log')
-    t1 = task1(sections['ixchariot_fs'])
-    print(t1)
-    if not collection.find_one(t1):
-        collection.insert_one(t1)
-    t2 = task2(sections['ixchariot_fs'])
-    print(t2)
-    if not collection.find_one(t2):
-        collection.insert_one(t2)
-    t3 = task3(sections['chr_pairs_fs'])
-    print(t3)
-    if not collection.find_one(t3):
-        collection.insert_one(t3)
+
+    for task in [task1(sections['ixchariot_fs']), task2(sections['ixchariot_fs']), task3(sections['chr_pairs_fs'])]:
+        task_unique_id = {'task_number': task['task_number']}
+        if not collection.find_one(task_unique_id):
+            collection.insert_one(task)
+        else:
+            collection.update_one(task_unique_id, {'$set': task})
