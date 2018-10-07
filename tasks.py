@@ -3,6 +3,7 @@
 
 import re
 import datetime as dt
+import pymongo
 
 
 class FeatureRecord:
@@ -48,7 +49,7 @@ def parse_log(_file):
     with open(_file, 'r') as log:
         record_indent = ' ' * 4
         current_year = 0
-        sections = {}
+        log_sections = {}
         current_section = ''
         for line in log:
             groups = re.match(r'^Flexible License Manager status on ' + lmutil_time_pattern, line)
@@ -58,16 +59,20 @@ def parse_log(_file):
             groups = re.match(r'^Users of (?P<section>\w+?):.*$', line)
             if groups:
                 current_section = groups.group('section')
-                sections[current_section] = []
+                log_sections[current_section] = []
                 continue
-            if re.match(r'^%s\S+.*$' % record_indent, line) and current_section in sections:
-                sections[current_section].append(parse_record(line.strip(), current_year))
-    return sections
+            if re.match(r'^%s\S+.*$' % record_indent, line) and current_section in log_sections:
+                log_sections[current_section].append(parse_record(line.strip(), current_year))
+    return log_sections
 
 
 def task1(_records):
     print('Task 1. Unique users count of ixchariot_fs:')
-    print(len(set(_records)))
+    count = len(set(_records))
+    print(count)
+    return {'task_number': 1,
+            'task_description': 'unique users count of ixchariot_fs',
+            'count': count}
 
 
 def task2(_records):
@@ -78,28 +83,53 @@ def task2(_records):
             same_hosts[record.m_host] = [record]
         else:
             same_hosts[record.m_host].append(record)
-    for key, values in same_hosts.items():
-        if len(values) > 1:
-            print(key, end=': ')
-            for value in values:
-                if value.m_start_datetime:
-                    print(value.m_start_datetime, end='')
-                if value.m_end_datetime:
-                    print(' - ', value.m_end_datetime, end='')
+    same_hosts_info = {}
+    for host_name, host_records in same_hosts.items():
+        if len(host_records) > 1:
+            same_hosts_info[host_name] = []
+            print(host_name, end=': ')
+            for host_record in host_records:
+                if host_record.m_start_datetime:
+                    same_hosts_info[host_name].append({'start_time': host_record.m_start_datetime})
+                    print(host_record.m_start_datetime, end='')
+                if host_record.m_end_datetime:
+                    same_hosts_info[host_name][0]['end_time'] = host_record.m_end_datetime
+                    print(' - ', host_record.m_end_datetime, end='')
                 else:
                     print(', ', end='')
             print()
+    return {'task_number': 2,
+            'task_description': 'hosts, who uses ixchariot_fs more then one time',
+            'hosts': same_hosts_info
+            }
 
 
 def task3(_records):
     print('Task 3. Hosts with more then 30 licenses:')
+    hosts = []
     for record in _records:
         if record.m_lic_count > 30:
             print(record.m_host)
+            hosts.append(record.m_host)
+    return {'task_number': 3,
+            'task_description': 'hosts with more then 30 licenses',
+            'hosts': hosts}
 
 
 if __name__ == '__main__':
+    client = pymongo.MongoClient()
+    db = client['lmstat_db']
+    collection = db['tasks']
     sections = parse_log('data.log')
-    task1(sections['ixchariot_fs'])
-    task2(sections['ixchariot_fs'])
-    task3(sections['chr_pairs_fs'])
+    t1 = task1(sections['ixchariot_fs'])
+    print(t1)
+    if not collection.find_one(t1):
+        collection.insert_one(t1)
+    t2 = task2(sections['ixchariot_fs'])
+    print(t2)
+    if not collection.find_one(t2):
+        collection.insert_one(t2)
+    t3 = task3(sections['chr_pairs_fs'])
+    print(t3)
+    if not collection.find_one(t3):
+        collection.insert_one(t3)
